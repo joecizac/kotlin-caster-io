@@ -1,4 +1,4 @@
-@file: JvmName("StringFunctions")
+@file:JvmName("StringFunctions")
 
 package com.jozze.kotlinplayground.test
 
